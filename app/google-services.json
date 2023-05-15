@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "408400073451",
+    "firebase_url": "https://bookstore-7a7ce-default-rtdb.firebaseio.com",
+    "project_id": "bookstore-7a7ce",
+    "storage_bucket": "bookstore-7a7ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408400073451:android:478b4ea477f134b80c24ae",
+        "android_client_info": {
+          "package_name": "com.example.assignment2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408400073451-un8k9tt8q6d47ipj4oevkqt89vov654f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRLbgWIl5W5aONPPK5bmwOG8_Ne7GF-6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408400073451-un8k9tt8q6d47ipj4oevkqt89vov654f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408400073451:android:a4e53deacdee0a080c24ae",
+        "android_client_info": {
+          "package_name": "com.example.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408400073451-un8k9tt8q6d47ipj4oevkqt89vov654f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRLbgWIl5W5aONPPK5bmwOG8_Ne7GF-6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408400073451-un8k9tt8q6d47ipj4oevkqt89vov654f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408400073451:android:52aa1258b30450d40c24ae",
+        "android_client_info": {
+          "package_name": "com.example.galaxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408400073451-un8k9tt8q6d47ipj4oevkqt89vov654f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRLbgWIl5W5aONPPK5bmwOG8_Ne7GF-6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408400073451-un8k9tt8q6d47ipj4oevkqt89vov654f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
